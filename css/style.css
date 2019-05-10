@@ -1,0 +1,15 @@
+button{
+    width: 50px;
+    margin: 2px;
+}
+#kijelzo{
+  width: 210px;
+  margin-bottom: 2px;
+  margin-left: 9px;
+  text-align: right;
+}
+h1{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #006400;
+}
